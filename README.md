@@ -5,7 +5,7 @@
 **_December 28, 2025_**
 
 
-It was late in the evening. My friend and I were just started a few days of holiday—school was out for us both, and he was finally off-work for Christmas. We were small-talking about how I’d decided to spend my break switching to Arch (BTW ;)), while he was mostly just trying to rehabilitate from the whole year's work. He honestly didn’t want anything to do with computers, until he mentioned he’d been looking into some resources on Load Testing.
+It was late in the evening. My friend and I just started a few days of holiday—school was out for us both, and he was finally off-work for Christmas. We were small-talking about how I’d decided to spend my break switching to Arch (BTW ;)), while he was mostly just trying to rehabilitate from the whole year's work. He honestly didn’t want anything to do with computers, until he mentioned he’d been looking into some resources on Load Testing.
 
 We went down the rabbit hole. I told him how I’ve developed a habit of load testing simultaneously with development, using closures (basically HOFs) as decorators. I use them to wrap whatever module I’m working on to get insights into execution time and memory usage—heap allocations, stack usage, and the like—optimizing as I go.
 
